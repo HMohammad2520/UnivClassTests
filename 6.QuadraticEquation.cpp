@@ -33,6 +33,7 @@ int main(){
         cout << "Rishe Mozaaf\n";
         cout << "x1: " << x1 << "\n";
         cout << "x2: " << x2 << "\n";
+        return 0;
     }
     else if (Delta>0){
         x1 = (-(B) - sqrt(Delta)) / (2*A);
