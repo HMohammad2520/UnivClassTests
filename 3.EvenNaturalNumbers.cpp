@@ -11,7 +11,7 @@ int main(){
 
     if (N < 2){
         cout << "N nemitavanad az 2 kochek tar bashad";
-        return 0;
+        return 1;
     }
 
     while (I < N) {
