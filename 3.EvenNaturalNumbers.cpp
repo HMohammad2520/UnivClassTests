@@ -18,6 +18,8 @@ int main(){
         cout << I << " ";
         I = I + 2;
     }
+    cout << "\n";
+    cout << "I: " << I;
 
     return 0;
 }
