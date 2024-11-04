@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int Score;
+    int Score = 0;
 
     cout << "Nomre Danesh Amoz ra Vared Konid: ";
     cin >> Score;
