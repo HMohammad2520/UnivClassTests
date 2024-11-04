@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    int A;
-    int B;
-    int C;
+    int A = 0;
+    int B = 0;
+    int C = 0;
 
     cout << "A=? ";
     cin >> A;
