@@ -1,8 +1,9 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
+int main()
+{
     float R = 0;
     float Area = 0;
     const float Pi = 3.14;
@@ -10,7 +11,7 @@ int main(){
     cout << "Shoae Dayere Ra Benevisid: ";
     cin >> R;
 
-    Area = (R*R) * Pi;
+    Area = (R * R) * Pi;
 
     cout << "Area: " << Area;
     return 0;

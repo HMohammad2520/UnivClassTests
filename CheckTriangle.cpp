@@ -1,8 +1,9 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
+int main()
+{
     int A;
     int B;
     int C;
@@ -16,11 +17,13 @@ int main(){
     cout << "C=? ";
     cin >> C;
 
-    if ((A+B)>=C && (A+C)>=B && (C+B)>=A){
+    if ((A + B) >= C && (A + C) >= B && (C + B) >= A)
+    {
         cout << "Mosalas Tashkil Mishavad";
         return 0;
     }
-    else {
+    else
+    {
         cout << "Mosalas Tashkil Nemishavad";
         return 0;
     }
