@@ -4,10 +4,10 @@ using namespace std;
 
 int main(){
     int Score;
-    
+
     cout << "Nomre Danesh Amoz ra Vared Konid: ";
     cin >> Score;
-    
+
     if (20 >= Score && Score > 18){
         cout << "Kheyli Khob !!";
         return 0;
