@@ -16,7 +16,7 @@ int main(){
     cout << "C=? ";
     cin >> C;
 
-    if ((A+B)>C && (A+C)>B && (C+B)>A){
+    if ((A+B)>=C && (A+C)>=B && (C+B)>=A){
         cout << "Mosalas Tashkil Mishavad";
         return 0;
     }
