@@ -12,4 +12,4 @@
 - [Check Triangle](CheckTriangle.cpp) `تشخیص تشکیل مثلث`
 - [Quadratic Equation](QuadraticEquation.cpp) `حل معادله درجه دو`
 
-_در صورت وجود هرگونه مشکل یا ایراد در کد های بالا آنرا به صورت Issue ثبت کنید._
+_در صورت وجود هرگونه ایراد در کد های بالا آنرا به صورت Issue ثبت کنید._
