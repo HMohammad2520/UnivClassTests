@@ -31,8 +31,8 @@ int main(){
     else if (Delta==0) {
         x1 = x2 = -(B) / (2*A);
         cout << "Rishe Mozaaf\n";
-        cout << "x1: " << x1;
-        cout << "x2: " << x2;
+        cout << "x1: " << x1 << "\n";
+        cout << "x2: " << x2 << "\n";
     }
     else if (Delta>0){
         x1 = (-(B) - sqrt(Delta)) / (2*A);
