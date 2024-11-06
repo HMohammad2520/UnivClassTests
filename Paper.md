@@ -1,4 +1,4 @@
-<div dir="rtl">
+<link rel="stylesheet" href="style.css">
 
 # برنامه نویسی پیشرفته (1)
 
@@ -52,5 +52,3 @@
 - پایان
 
 [C++](cpp/RectanglePerimeter.cpp)
-
-</div>

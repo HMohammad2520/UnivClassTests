@@ -1,4 +1,4 @@
-<div dir="rtl">
+<link rel="stylesheet" href="style.css">
 
 # برنامه نویسی پیشرفته (1)
 
@@ -28,5 +28,3 @@
 - [Quadratic Equation](cpp/QuadraticEquation.cpp) `حل معادله درجه دو`
 
 _در صورت وجود هرگونه ایراد در کد های بالا آنرا به صورت Issue ثبت کنید._
-
-</div>
