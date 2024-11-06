@@ -50,4 +50,4 @@
 - پایان
 
 > نمونه کد
-> [C++](cpp/RectanglePerimeter.cpp) 
+> [Cpp](cpp/RectanglePerimeter.cpp) 
