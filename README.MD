@@ -19,6 +19,7 @@
 ## الگوریتم ها به زبان کد
 
 - [Hello Programmer](cpp/HelloProgrammer.cpp) `چاپ یک متن ساده`
+- [RectanglePerimeter](cpp/RectanglePerimeter.cpp) `محاطبه محیط مستطیل`
 - [Circle Area](cpp/CircleArea.cpp) `محاصبه مساحت دایره با شعاع`
 - [Natural Numbers](cpp/NaturalNumbers.cpp) `اعداد طبیعی قبل داده دلخواه`
 - [Even Natural Numbers](cpp/EvenNaturalNumbers.cpp) `اعداد زوج طبیعی قبل داده دلخواه`
