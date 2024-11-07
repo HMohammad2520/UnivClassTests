@@ -40,7 +40,7 @@ int main()
     }
     else if (Delta > 0)
     {
-        x1 = (-(B)-sqrt(Delta)) / (2 * A);
+        x1 = (-(B) - sqrt(Delta)) / (2 * A);
         x2 = (-(B) + sqrt(Delta)) / (2 * A);
         cout << "x1: " << x1 << "\n";
         cout << "x2: " << x2 << "\n";
